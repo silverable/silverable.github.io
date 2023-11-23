@@ -16,7 +16,7 @@
 title: Insights and Epiphanies
 email: dmsqlc1324@gmail.com
 description: 은빝의 기술 블로그
-baseurl: "/pages" # the subpath of your site, e.g. /blog
+# baseurl: "/pages" # the subpath of your site, e.g. /blog
 domain: silverable.github.io
 url: "https://silverable.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: silverable
